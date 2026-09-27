@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Reminder</string>
+
+    <!-- Activities / Buttons -->
+    <string name="add_task">Add Task</string>
+    <string name="save_task">Save Task</string>
+
+    <!-- EditText hints -->
+    <string name="hint_title">Enter Task Title</string>
+    <string name="hint_description">Enter Task Description</string>
+    <string name="hint_due_date">Due Date (e.g. 25/08/2025)</string>
+    <string name="hint_reminder_time">Reminder Time (e.g. 14:30)</string>
+
+    <!-- Empty state -->
+    <string name="no_tasks">No tasks yet. Add one!</string>
+    <string name="empty_state_desc">Empty tasks illustration</string>
+
+    <!-- Menu -->
+    <string name="menu">More options</string>
+</resources>
